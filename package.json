@@ -1,0 +1,27 @@
+{
+  "name": "time-template",
+  "version": "0.0.1",
+  "description": "Time format and apply template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/time-template.git"
+  },
+  "keywords": [
+    "Seconds",
+    "Time",
+    "Format",
+    "Template",
+    "Javascript",
+    "Ago"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/time-template/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/time-template#readme"
+}
