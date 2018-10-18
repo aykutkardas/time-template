@@ -1,4 +1,8 @@
 const timeTemplate = (sn, { format, template } = {}) => {
+  if (!sn) {
+    return false;
+  }
+
   let seconds = sn;
 
   if (typeof second !== "number") {
